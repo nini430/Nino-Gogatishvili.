@@ -1,0 +1,27 @@
+body {
+  width:95%;
+  margin:auto;
+  font-family:"Raleway",sans-serif;
+}
+
+
+.attributeName {
+
+  font-size:18px;
+  font-weight:700;
+  color: #1D1F22;
+  text-transform:uppercase;
+  margin-bottom:20px;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.price {
+  font-size:24px;
+  font-weight:700;
+}
+
+
+
+
+
